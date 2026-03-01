@@ -1,6 +1,6 @@
 ### Hi! I'm Sarah (she/her)!
 
-Denver, CO–based Software Developer bridging product, code, and customer experience.
+Software Engineer connecting product vision, clean code, and real customer impact.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/sarah-lane-6bb319119/)!
 
